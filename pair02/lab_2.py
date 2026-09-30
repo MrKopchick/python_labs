@@ -1,3 +1,4 @@
+#1
 # n = int(input())
 # suma = 0
 # avg = 0
@@ -30,6 +31,7 @@
 # print(f"Max: {max}")
 # print(f"Min: {min}")
 
+#2
 # n = int(input("enter number: "))
 # for i in range(1, n + 1):
 #     while i > 0:
@@ -40,6 +42,7 @@
 #             print(i)
 #             break
 
+#3
 # n = int(input("enter number: "))
 # for i in range(1, n + 1):
 #     num = i
@@ -54,6 +57,7 @@
 #     if ok:
 #         print(i, end=" ")
 
+#4
 # width = int(input("Enter width: "))
 # height = int(input("Enter height: "))
 # fill_char = input("Enter fill character: ")
