@@ -1,0 +1,3 @@
+Anna grades: 2 avg: 10.50
+Ivan grades: 2 avg: 10.50
+best: Anna and Ivan
